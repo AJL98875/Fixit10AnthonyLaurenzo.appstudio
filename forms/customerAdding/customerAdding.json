@@ -14,45 +14,27 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdding", 
         "Elements", 
-        "txtResults.json"
+        "txtNameA.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdding", 
         "Elements", 
-        "txtState.json"
+        "btnNameA.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdding", 
         "Elements", 
-        "btnSubmit.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerSelect", 
-        "Elements", 
-        "iptState.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerSelect", 
-        "Elements", 
-        "BackS.json"
+        "BackA.json"
       ]
     }
   ], 
@@ -62,7 +44,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "customerSelect", 
+  "id": "customerAdding", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

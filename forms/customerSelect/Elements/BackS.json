@@ -24,12 +24,12 @@
   "fontWeight": "", 
   "groupStyle": "", 
   "grouping": "", 
-  "height": "auto", 
+  "height": 67, 
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnSubmit", 
-  "left": 202, 
+  "id": "BackS", 
+  "left": 185, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 128, 
-  "value": "Submit", 
-  "width": "auto"
+  "top": 370, 
+  "value": "Back to Homepage", 
+  "width": 129
 }

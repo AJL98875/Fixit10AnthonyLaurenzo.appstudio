@@ -28,8 +28,8 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnSubmit", 
-  "left": 202, 
+  "id": "BackD", 
+  "left": 218, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 128, 
-  "value": "Submit", 
+  "top": 365, 
+  "value": "Go to Homepage", 
   "width": "auto"
 }

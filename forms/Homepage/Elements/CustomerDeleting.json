@@ -28,8 +28,8 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnSubmit", 
-  "left": 202, 
+  "id": "CustomerDeleting", 
+  "left": 69, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 128, 
-  "value": "Submit", 
+  "top": 140, 
+  "value": "Customer Deleting", 
   "width": "auto"
 }
